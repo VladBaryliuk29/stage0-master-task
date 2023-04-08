@@ -10,3 +10,4 @@ public enum Complexity {
     O_1,
     O_N
 }
+
