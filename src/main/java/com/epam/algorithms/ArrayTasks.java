@@ -48,7 +48,7 @@ public class ArrayTasks {
     public int totalSum(int[] arr) {
         int sum = 0;
         for (int i: arr){
-            sum *= i;
+            sum += i;
         }
         return sum;
     }
